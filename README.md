@@ -2,6 +2,8 @@
 
 The purpose of this challenge is to create a responsive contact card using flexbox and/or grid. The card can be for you personally or for a fictitious character. In the previous exercises you were provided code to focus on semantic HTML, Flexbox, and Grid. In this exercise, it will be up to you to build the project.
 
+You will use this wireframe as a guide to complete your project.
+
 ![Example Mockup](./wireframes/example-mockup.png)  
 
 
